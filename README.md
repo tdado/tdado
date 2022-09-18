@@ -1,4 +1,4 @@
-Hi, I’m Thirza Dado - A PhD candidate at the Neural Coding Lab.
+Hi, I’m Thirza Dado - PhD candidate at the Neural Coding Lab.
 
 - 🧩 Neural Coding
 - 👾 Generative Modeling
