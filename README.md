@@ -1,9 +1,4 @@
-Hi, I’m Thirza Dado - PhD candidate at the Neural Coding Lab.
-
-- 🧩 Neural Coding
-- 👾 Generative Modeling
-- 🤖 Artificial Intelligence
-- 🧠 Cognitive Neuroscience
+Hi, I’m Thirza Dado
 
 <!---
 tdado/tdado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
